@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am Pruthviraj, pursuing Artificial Intelligence and Data Science (Engineering Degree) at VIT Pune.
 🔭 I’m currently working on:<br>AI-powered web platforms and full-stack applications.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, scalable web applications, and machine learning–driven solutions<br><br>🤝 I’m looking for help with:<br>System design best practices, backend scalability, and performance optimization<br><br>🌱 I’m currently learning:<br>Advanced Data Structures & Algorithms, Database Management Systems, and Machine Learning concepts<br><br>⚡ Fun fact:<br>I enjoy building end-to-end projects to better understand real-world system architecture
 
 ## 🌐 Socials:
